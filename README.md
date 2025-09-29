@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Oie+,+eu+sou+o+Raimundo+Elias" alt="Typing SVG" />
 </p>
 
-<h3>📈 Estudante de Ciências de Dados e Inteligência Artificial</h3>
+<h3 align="center">📈 Estudante de Ciências de Dados e Inteligência Artificial</h3>
 
 <p>
 Sou estudante de Ciências de Dados e Inteligência Artificial no Centro Universitário Fundação Santo André.<br>
@@ -26,6 +26,32 @@ Apaixonado por transformar dados em insights, busco crescimento e aprendizado co
 
 ---
 
+<h3>🎓 Meus Certificados</h3>
+<p>
+<table>
+<tr>
+<td align="center">
+<img src="data-fundamentals.png" width="200"/><br>
+<a href="https://www.credly.com/badges/b93b53c6-f812-4fa8-84e0-a9fe0a17f379/public_url" target="_blank">Ver no Credly</a>
+</td>
+<td align="center">
+<img src="getting-started-with-artificial-intelligence.png" width="200"/><br>
+<a href="https://www.credly.com/badges/3b8e8570-2649-4e90-ad79-cc8e7c84b8bb/public_url" target="_blank">Ver no Credly</a>
+</td>
+<td align="center">
+<img src="getting-started-with-data.png" width="200"/><br>
+<a href="https://www.credly.com/badges/3dc97af9-188f-4043-8bc0-ef9e58163bbb/public_url" target="_blank">Ver no Credly</a>
+</td>
+<td align="center">
+<img src="getting-started-with-enterprise-grade-ai.2 (1).png" width="200"/><br>
+<a href="https://www.credly.com/badges/9cba450e-057b-471a-9765-ba512a606a9b/public_url" target="_blank">Ver no Credly</a>
+</td>
+</tr>
+</table>
+</p>
+
+---
+
 ### 🔭 Projetos
 - 🛒 [Análise de dados do supermercado de Mianmar](https://github.com/Raimundo2004/An-lise-supermercado.git)  
 - 🛥️ [Análise Titanic](https://github.com/Raimundo2004/An-lise-de-dados-com-a-base-de-dados-do-Titanic.git)  
@@ -42,36 +68,6 @@ Apaixonado por transformar dados em insights, busco crescimento e aprendizado co
 
 <h3>📊 Estatísticas do GitHub</h3>
 <p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raimundo2004&layout=compact&theme=tokyonight&include_all_commits=true" alt="Linguagens Mais Usadas" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api?username=raimundo2004&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Estatísticas do GitHub" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raimundo2004&layout=compact&theme=tokyonight&include_all_commits=true" alt="Linguagens Mais Usadas" width="49%" style="display:inline-block;"/>
+<img src="https://github-readme-stats.vercel.app/api?username=raimundo2004&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Estatísticas do GitHub" width="49%" style="display:inline-block;"/>
 </p>
-
----
-
-<h3>🎓 Meus Certificados</h3>
-
-<p>
-<table>
-<tr>
-<td align="center">
-<img src=""C:\Users\Marcelo Gonçalves\OneDrive - Fundacao Santo Andre\Área de Trabalho\Certificado\IBM\IBMDesign20250929-31-4qkble.pdf"" width="200"/><br>
-<a href="https://www.credly.com/badges/3b8e8570-2649-4e90-ad79-cc8e7c84b8bb" target="_blank">Ver no Credly</a>
-</td>
-<td align="center">
-<img src="certificados/certificado2.png" width="200"/><br>
-<a href="https://www.credly.com/badges/3b8e8570-2649-4e90-ad79-cc8e7c84b8bb" target="_blank">Ver no Credly</a>
-</td>
-<td align="center">
-<img src="certificados/certificado3.png" width="200"/><br>
-<a href="https://www.credly.com/badges/3dc97af9-188f-4043-8bc0-ef9e58163bbb" target="_blank">Ver no Credly</a>
-</td>
-<td align="center">
-<img src="certificados/certificado4.png" width="200"/><br>
-<a href="https://www.credly.com/badges/9cba450e-057b-471a-9765-ba512a606a9b" target="_blank">Ver no Credly</a>
-</td>
-</tr>
-</table>
-</p>
-
-
-
