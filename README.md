@@ -5,7 +5,7 @@
 <h3>📈 Estudante de Ciências de Dados e Inteligência Artificial</h3>
 
 <p>
-Sou estudante de Ciências de Dados e Inteligência Artificial no Centro Universitário Fundação Santo André.  
+Sou estudante de Ciências de Dados e Inteligência Artificial no Centro Universitário Fundação Santo André.<br>
 Apaixonado por transformar dados em insights, busco crescimento e aprendizado constante para me tornar um cientista de dados capaz de gerar soluções impactantes.
 </p>
 
@@ -30,23 +30,42 @@ Apaixonado por transformar dados em insights, busco crescimento e aprendizado co
 - 🛒 [Análise de dados do supermercado de Mianmar](https://github.com/Raimundo2004/An-lise-supermercado.git)  
 - 🛥️ [Análise Titanic](https://github.com/Raimundo2004/An-lise-de-dados-com-a-base-de-dados-do-Titanic.git)  
 - 🔢 [Integração de Banco de Dados em Java + MySQL](https://github.com/Raimundo2004/Java-com-BD.git)  
+- 🤖 [Machine Learning em Python](https://github.com/Raimundo2004/ML.git)
 
 ---
 
 ### 📫 Contato
 - Email: **relias.neto2004@gmail.com**  
-- LinkedIn: [Raimundo Elias dos Santos Neto](https://www.linkedin.com/in/raimundo-elias-dos-santos-neto)  
+- LinkedIn: [Raimundo Elias dos Santos Neto](https://www.linkedin.com/in/raimundo-elias-dos-santos-neto)
 
 ---
 
-<h3 align="center">📊 Estatísticas Gerais do GitHub</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raimundo2004&layout=compact&theme=tokyonight" 
-       alt="Linguagens Mais Usadas" width="500"/>
+<h3>📊 Estatísticas do GitHub</h3>
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raimundo2004&layout=compact&theme=tokyonight&include_all_commits=true" alt="Linguagens Mais Usadas" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=raimundo2004&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Estatísticas do GitHub" width="48%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raimundo2004&show_icons=true&theme=tokyonight&include_all_commits=true" 
-       alt="Estatísticas do GitHub" width="500"/>
+---
+
+<h3>🎓 Meus Certificados</h3>
+<p>
+<table>
+<tr>
+<td>
+<img src="certificados/certificado_python.png" width="300"/><br>
+<a href="https://www.credly.com/badges/SEU_ID_AQUI" target="_blank">Ver no Credly</a>
+</td>
+<td>
+<img src="certificados/certificado_sql.png" width="300"/><br>
+<a href="https://www.credly.com/badges/SEU_ID_AQUI" target="_blank">Ver no Credly</a>
+</td>
+<td>
+<img src="certificados/certificado_powerbi.png" width="300"/><br>
+<a href="https://www.credly.com/badges/SEU_ID_AQUI" target="_blank">Ver no Credly</a>
+</td>
+</tr>
+</table>
 </p>
+
 
