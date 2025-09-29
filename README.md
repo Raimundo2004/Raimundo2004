@@ -1,15 +1,18 @@
-<h1 align="center">Oi 👋, eu sou Raimundo Elias</h1>
-<h3 align="center">📈 Estudante de Ciências de Dados e Inteligência Artificial</h3>
-
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Oie+,+eu+sou+o+Raimundo+Elias" alt="Typing SVG" />
+</p>
+
+<h3>📈 Estudante de Ciências de Dados e Inteligência Artificial</h3>
+
+<p>
 Sou estudante de Ciências de Dados e Inteligência Artificial no Centro Universitário Fundação Santo André.  
 Apaixonado por transformar dados em insights, busco crescimento e aprendizado constante para me tornar um cientista de dados capaz de gerar soluções impactantes.
 </p>
 
 ---
 
-<h3 align="center">🚀 Linguagens e Tecnologias</h3>
-<p align="center">
+<h3>🚀 Linguagens e Tecnologias</h3>
+<p>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40"/></a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40"/></a>
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40"/></a>
@@ -36,14 +39,14 @@ Apaixonado por transformar dados em insights, busco crescimento e aprendizado co
 
 ---
 
-<h3 align="center">🤖 Estatísticas Gerais do GitHub</h3>
+<h3 align="center">📊 Estatísticas Gerais do GitHub</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raimundo2004&show_icons=true&theme=tokyonight&include_all_commits=true" 
-       alt="Estatísticas do GitHub" width="600"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raimundo2004&layout=compact&theme=tokyonight" 
+       alt="Linguagens Mais Usadas" width="500"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raimundo2004&layout=compact&theme=tokyonight" 
-       alt="Linguagens Mais Usadas" width="600"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=raimundo2004&show_icons=true&theme=tokyonight&include_all_commits=true" 
+       alt="Estatísticas do GitHub" width="500"/>
 </p>
 
