@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Oie+,+eu+sou+o+Raimundo+Elias" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Oie,+eu+sou+o+Raimundo+Elias" alt="Typing SVG" />
 </p>
 
-<h3 align="center">📈 Estudante de Ciências de Dados e Inteligência Artificial</h3>
+<h3>📈 Estudante de Ciências de Dados e Inteligência Artificial</h3>
 
 <p>
 Sou estudante de Ciências de Dados e Inteligência Artificial no Centro Universitário Fundação Santo André.<br>
@@ -26,7 +26,7 @@ Apaixonado por transformar dados em insights, busco crescimento e aprendizado co
 
 ---
 
-<h3>🎓 Meus Certificados</h3>
+<h3>🎓 Minhas credenciais</h3>
 <p>
 <table>
 <tr>
