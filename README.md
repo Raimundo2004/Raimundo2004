@@ -49,23 +49,29 @@ Apaixonado por transformar dados em insights, busco crescimento e aprendizado co
 ---
 
 <h3>🎓 Meus Certificados</h3>
+
 <p>
 <table>
 <tr>
-<td>
-<img src="certificados/certificado_python.png" width="300"/><br>
-<a href="https://www.credly.com/badges/SEU_ID_AQUI" target="_blank">Ver no Credly</a>
+<td align="center">
+<img src=""C:\Users\Marcelo Gonçalves\OneDrive - Fundacao Santo Andre\Área de Trabalho\Certificado\IBM\IBMDesign20250929-31-4qkble.pdf"" width="200"/><br>
+<a href="https://www.credly.com/badges/3b8e8570-2649-4e90-ad79-cc8e7c84b8bb" target="_blank">Ver no Credly</a>
 </td>
-<td>
-<img src="certificados/certificado_sql.png" width="300"/><br>
-<a href="https://www.credly.com/badges/SEU_ID_AQUI" target="_blank">Ver no Credly</a>
+<td align="center">
+<img src="certificados/certificado2.png" width="200"/><br>
+<a href="https://www.credly.com/badges/3b8e8570-2649-4e90-ad79-cc8e7c84b8bb" target="_blank">Ver no Credly</a>
 </td>
-<td>
-<img src="certificados/certificado_powerbi.png" width="300"/><br>
-<a href="https://www.credly.com/badges/SEU_ID_AQUI" target="_blank">Ver no Credly</a>
+<td align="center">
+<img src="certificados/certificado3.png" width="200"/><br>
+<a href="https://www.credly.com/badges/3dc97af9-188f-4043-8bc0-ef9e58163bbb" target="_blank">Ver no Credly</a>
+</td>
+<td align="center">
+<img src="certificados/certificado4.png" width="200"/><br>
+<a href="https://www.credly.com/badges/9cba450e-057b-471a-9765-ba512a606a9b" target="_blank">Ver no Credly</a>
 </td>
 </tr>
 </table>
 </p>
+
 
 
