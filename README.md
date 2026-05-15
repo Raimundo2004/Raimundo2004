@@ -63,11 +63,3 @@ Apaixonado por transformar dados em insights, busco crescimento e aprendizado co
 ### 📫 Contato
 - Email: **relias.neto2004@gmail.com**  
 - LinkedIn: [Raimundo Elias dos Santos Neto](https://www.linkedin.com/in/raimundo-elias-dos-santos-neto)
-
----
-
-<h3>📊 Estatísticas do GitHub</h3>
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raimundo2004&layout=compact&theme=tokyonight&include_all_commits=true" alt="Linguagens Mais Usadas" width="49%" style="display:inline-block;"/>
-<img src="https://github-readme-stats.vercel.app/api?username=raimundo2004&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Estatísticas do GitHub" width="49%" style="display:inline-block;"/>
-</p>
