@@ -53,10 +53,10 @@ Apaixonado por transformar dados em insights, busco crescimento e aprendizado co
 ---
 
 ### 🔭 Projetos
-- 🛒 [Análise de dados do supermercado de Mianmar](https://github.com/Raimundo2004/An-lise-supermercado.git)  
-- 🛥️ [Análise Titanic](https://github.com/Raimundo2004/An-lise-de-dados-com-a-base-de-dados-do-Titanic.git)  
-- 🔢 [Integração de Banco de Dados em Java + MySQL](https://github.com/Raimundo2004/Java-com-BD.git)  
-- 🤖 [Machine Learning em Python](https://github.com/Raimundo2004/ML.git)
+- 📈 [Dashboard de Análise e Previsão de Ações com Machine Learning](https://github.com/Raimundo2004/acoes.git)
+- 🛥️ [Análise Titanic](https://github.com/Raimundo2004/An-lise-de-dados-com-a-base-de-dados-do-Titanic.git)   
+- 🤖 [Análise/ML com Dados do Titaninc](https://github.com/Raimundo2004/ML.git)
+- 🚗 [Risco ao Volante](https://github.com/Raimundo2004/ETL-Acidentes.git)
 
 ---
 
