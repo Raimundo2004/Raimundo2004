@@ -54,7 +54,7 @@ Apaixonado por transformar dados em insights, busco crescimento e aprendizado co
 
 ### 🔭 Projetos
 - 📈 [Dashboard de Análise e Previsão de Ações com Machine Learning](https://github.com/Raimundo2004/acoes.git)
-- - 🚗 [Risco ao Volante](https://github.com/Raimundo2004/ETL-Acidentes.git)
+- 🚗 [Risco ao Volante](https://github.com/Raimundo2004/ETL-Acidentes.git)
 - 🛥️ [Análise/ML com Dados do Titaninc](https://github.com/Raimundo2004/An-lise-de-dados-com-a-base-de-dados-do-Titanic.git)   
 
 ---
